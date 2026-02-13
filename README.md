@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">snek :)</p>
-<img src="https://raw.githubusercontent.com/VanWijkPascal/VanWijkPascal/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VanWijkPascal/VanWijkPascal/output/snake.svg" alt="Snke broke :(" />
