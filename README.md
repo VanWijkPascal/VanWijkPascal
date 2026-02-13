@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>snek :)</p>
+<p align="center">snek :)</p>
 <img src="https://raw.githubusercontent.com/VanWijkPascal/VanWijkPascal/output/snake.svg" alt="Snake animation" />
